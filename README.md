@@ -1,1 +1,2 @@
-# wedding-site
+# wedding-template
+Wedding website template
